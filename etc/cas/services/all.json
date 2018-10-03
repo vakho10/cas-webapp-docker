@@ -1,0 +1,6 @@
+{
+  "@Class": "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId": "^http.*",
+  "name": "HTTPS and HTTP",
+  "id": 10000001,
+}
